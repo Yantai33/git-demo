@@ -9,4 +9,5 @@ Hello World!1
 Hello World!1
 Hello World!1
 Hello World!1 Im a MasterTest
+Hello World!1 Im a Hot-fix Test
 Im a Hot-fix
